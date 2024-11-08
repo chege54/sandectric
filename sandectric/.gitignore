@@ -165,3 +165,9 @@ dist
 .svelte-kit
 
 # End of https://www.toptal.com/developers/gitignore/api/go,node
+
+# Hugo specific
+resources/
+public/
+.hugo_build.lock
+assets/jsconfig.json
