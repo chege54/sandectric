@@ -1,0 +1,130 @@
+# More documentation here: https://github.com/nicksnyder/go-i18n
+[home]
+other = "Főoldal"
+
+[posts]
+other = "Referenciák"
+
+[toc_heading]
+other = "Tartalom"
+
+[tags]
+other = "Tags"
+
+[categories]
+other = "Kategoriák"
+
+[at]
+other = "-"
+
+[resume]
+other = "Önéletrajz"
+
+[navigation]
+other = "Oldaltérkép"
+
+[contact_me]
+other = "Kapcsolat:"
+
+[email]
+other = "Email"
+
+[phone]
+other = "Telefon"
+
+[newsletter_text]
+other = "Stay up to date with email notification"
+
+[newsletter_input_placeholder]
+other = "E-Mail cím"
+
+[newsletter_warning]
+other = "By entering your email address, you agree to receive the newsletter of this website."
+
+[submit]
+other = "Submit"
+
+[hugoAttributionText]
+other = "Powered by"
+
+[prev]
+other = "Vissza"
+
+[next]
+other = "Következő"
+
+[share_on]
+other = "Megosztás"
+
+[improve_this_page]
+other = "Improve this page"
+
+[out_of]
+other = "out of"
+
+[publications]
+other = "Publikációk"
+
+[taken_courses]
+other = "Taken Courses"
+
+[course_name]
+other = "Course Name"
+
+[total_credit]
+other = "Total Credit"
+
+[obtained_credit]
+other = "Obtained Credit"
+
+[extracurricular_activities]
+other = "Extracurricular Activities"
+
+[show_more]
+other = "Több.."
+
+[show_less]
+other = "Kevesebb"
+
+[responsibilities]
+other = "Responsibilities:"
+
+[present]
+other = "Present"
+
+[comments_javascript]
+other = "Please enable JavaScript to view the"
+
+[comments_by]
+other = "comments powered by"
+
+[read]
+other = "Olvasás"
+
+[project_star]
+other = "Star"
+
+[project_details]
+other = "Details"
+
+[err_404]
+other = "The page you are looking for is not there yet."
+
+[more]
+other = "More"
+
+[view_certificate]
+other = "View Certificate"
+
+[notes]
+other = "Notes"
+
+[disclaimer_text]
+other = "Liability Notice"
+
+[search]
+other = "Keresés"
+
+[minute]
+one = "perc"
+other = "perc"
