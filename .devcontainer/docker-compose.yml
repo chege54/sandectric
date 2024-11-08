@@ -1,0 +1,10 @@
+name: hugo
+services:
+  dev:
+    build:
+      network: host
+    # ports:
+    #   - 1313:1313
+    volumes:
+      - ../:/workspace
+    network_mode: host
