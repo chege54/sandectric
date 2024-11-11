@@ -1,0 +1,64 @@
+section:
+  name: Tapasztalat # Titre de la section (par défaut: "" )
+  id: experiences # url id/slug of section *Required*
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your experiences
+experiences:
+- company:
+    name: SANDECTRIC Kft.
+    url: "https://www.example.com"
+    location: Budapest
+    logo: /images/experiences/company.png
+    darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+    # company overview
+    overview: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  positions:
+  - designation: Ügyvezető igazgató
+    start: 2022 július
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Lorem ipsum dolor sit amet, consectetur adipiscing elit. [LINK](https://www.example.com)
+    - Fusce eu augue ut odio porttitor pulvinar
+
+- company:
+    name: Winergy Kft.
+    url: "https://winergy.hu/"
+    location: Budapest
+    logo: /images/experiences/company.png
+    darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+    # company overview
+    overview: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  positions:
+  - designation: Vezető villamosmérnök
+    start: 2023 augusztus
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: 2020 augusztus
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Lorem ipsum dolor sit amet, consectetur adipiscing elit. [LINK](https://www.example.com)
+    - Fusce eu augue ut odio porttitor pulvinar.
+
+- company:
+    name: A HUN-REN (MTA) Energiatudományi Kutatóközpont
+    url: "https://www.ek.hun-ren.hu/"
+    location: Budapest - KFKI Campus
+    logo: /images/experiences/company.png
+    darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+    # company overview
+    overview: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  positions:
+  - designation: Kutatási asszisztens
+    start: 2023 augusztus
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: 2020 augusztus
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Lorem ipsum dolor sit amet, consectetur adipiscing elit. [LINK](https://www.example.com)
+    - Fusce eu augue ut odio porttitor pulvinar.
