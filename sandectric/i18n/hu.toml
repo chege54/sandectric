@@ -78,7 +78,7 @@ other = "Total Credit"
 other = "Obtained Credit"
 
 [extracurricular_activities]
-other = "Extracurricular Activities"
+other = "Egyéb aktivitások"
 
 [show_more]
 other = "Több.."
@@ -87,10 +87,10 @@ other = "Több.."
 other = "Kevesebb"
 
 [responsibilities]
-other = "Responsibilities:"
+other = "Feladatkörök:"
 
 [present]
-other = "Present"
+other = "jelenleg"
 
 [comments_javascript]
 other = "Please enable JavaScript to view the"
@@ -105,7 +105,7 @@ other = "Olvasás"
 other = "Star"
 
 [project_details]
-other = "Details"
+other = "részletek"
 
 [err_404]
 other = "The page you are looking for is not there yet."
