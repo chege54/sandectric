@@ -3,13 +3,13 @@ name: "Dr. Kazsoki Attila Sándor"
 nickname: "Sandectric Kft. - tervezői mérnökiroda"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 # greeting: "Üdvözöllek a"
-# image: "images/author/john.png"
+image: "images/author/dummy.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "info@sandectric.com"
   phone: "+0123456789"
   # github: johndoe
-  linkedin: johndoe
+  linkedin: https://www.linkedin.com/in/attila-kazsoki-5a0851148/
 
 # some summary about what you do
 summary:
