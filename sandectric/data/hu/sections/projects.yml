@@ -1,0 +1,46 @@
+# section information
+section:
+  name: Projektek
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+projects:
+- name: Annavölgy - 1
+  logo: images/projects/annavolgy.png
+  role: Vezető tervező
+  timeline: "2023 március - 2024 december"
+  #repo: https://github.com/kubernetes/kubernetes
+  url: "https://hu.wikipedia.org/wiki/Annav%C3%B6lgy"
+  summary: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+  tags: ["napelem", "general-tervezés"]
+
+- name: Annavölgy - 2
+  logo: images/projects/annavolgy.png
+  role: Vezető tervező
+  timeline: "2023 március - 2024 december"
+  #repo: https://github.com/kubernetes/kubernetes
+  url: "https://hu.wikipedia.org/wiki/Annav%C3%B6lgy"
+  summary: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+  tags: ["napelem", "general-tervezés"]
+
+- name: Annavölgy - 3
+  logo: images/projects/annavolgy.png
+  role: Vezető tervező
+  timeline: "2023 március - 2024 december"
+  #repo: https://github.com/kubernetes/kubernetes
+  url: "https://hu.wikipedia.org/wiki/Annav%C3%B6lgy"
+  summary: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+  tags: ["napelem", "general-tervezés"]
+
+- name: Annavölgy - 4
+  logo: images/projects/annavolgy.png
+  role: Vezető tervező
+  timeline: "2023 március - 2024 december"
+  #repo: https://github.com/kubernetes/kubernetes
+  url: "https://hu.wikipedia.org/wiki/Annav%C3%B6lgy"
+  summary: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+  tags: ["napelem", "general-tervezés"]
